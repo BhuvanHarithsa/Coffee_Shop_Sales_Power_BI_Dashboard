@@ -52,4 +52,3 @@ This project demonstrates a sales analysis dashboard for a coffee shop, built us
 - **MySQL**: Data validation and advanced querying.  
 
 ---
-## 🗂️ **Folder Structure**  
